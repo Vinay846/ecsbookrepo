@@ -33,7 +33,7 @@ function Header() {
     }, [books.bookInCart.length ])
     
     const gotoHome=()=> {
-		history.push('/');
+		history.push('https://vinay846.github.io/ecsbookrepo/');
 	}
 
 	return (
