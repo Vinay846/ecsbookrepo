@@ -18,7 +18,7 @@ function Confirm() {
 				</Card.Body>
 			</Card>
             <div className="d-flex justify-content-center my-3">
-			<Button href="/">make new order ?</Button>
+			<Button href="https://vinay846.github.io/ecsbookrepo/">make new order ?</Button>
             </div>
 		</div>
 	);
