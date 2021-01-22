@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ecsbookrepo/static/css/main.cdd2bde7.chunk.css",
+    "main.js": "/ecsbookrepo/static/js/main.7fbe2d56.chunk.js",
+    "main.js.map": "/ecsbookrepo/static/js/main.7fbe2d56.chunk.js.map",
+    "runtime-main.js": "/ecsbookrepo/static/js/runtime-main.a4b82a31.js",
+    "runtime-main.js.map": "/ecsbookrepo/static/js/runtime-main.a4b82a31.js.map",
+    "static/css/2.d1253848.chunk.css": "/ecsbookrepo/static/css/2.d1253848.chunk.css",
+    "static/js/2.f80f2d59.chunk.js": "/ecsbookrepo/static/js/2.f80f2d59.chunk.js",
+    "static/js/2.f80f2d59.chunk.js.map": "/ecsbookrepo/static/js/2.f80f2d59.chunk.js.map",
+    "index.html": "/ecsbookrepo/index.html",
+    "static/css/2.d1253848.chunk.css.map": "/ecsbookrepo/static/css/2.d1253848.chunk.css.map",
+    "static/css/main.cdd2bde7.chunk.css.map": "/ecsbookrepo/static/css/main.cdd2bde7.chunk.css.map",
+    "static/js/2.f80f2d59.chunk.js.LICENSE.txt": "/ecsbookrepo/static/js/2.f80f2d59.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ecsbookrepo/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4b82a31.js",
+    "static/css/2.d1253848.chunk.css",
+    "static/js/2.f80f2d59.chunk.js",
+    "static/css/main.cdd2bde7.chunk.css",
+    "static/js/main.7fbe2d56.chunk.js"
+  ]
+}
