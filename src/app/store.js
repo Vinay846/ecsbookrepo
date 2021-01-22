@@ -1,8 +1,10 @@
-import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import { combineReducers, configureStore } from '@reduxjs/toolkit';
+import {ecsSlice} from './ecsSlice'
+
+const rootReducer = combineReducers({
+  bookStore: ecsSlice.reducer,
+})
 
 export default configureStore({
-  reducer: {
-    counter: counterReducer,
-  },
+  reducer: rootReducer
 });

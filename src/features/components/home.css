@@ -1,0 +1,73 @@
+.booklist {
+	max-width: 1200px;
+	margin: 0 auto;
+	display: grid;
+	/* grid-gap: 0.2rem; */
+	background-color: #80808042;
+}
+
+span#lblCartCount {
+    margin-top: -35px;
+    margin-left: 33px;
+}
+
+@media (min-width: 600px) {
+	.booklist {
+		grid-template-columns: repeat(2, 1fr);
+		background-color: #80808042;
+    }
+    span#lblCartCount {
+        margin-top: 0;
+        margin-left: 0;
+    }
+}
+
+@media (min-width: 900px) {
+	.booklist {
+		grid-template-columns: repeat(3, 1fr);
+		background-color: #80808042;
+    }
+    span#lblCartCount {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    
+}
+
+.card {
+	height: 250px;
+}
+
+i.fa.fa-shopping-cart {
+	color: white;
+}
+
+.cart {
+	margin-left: 10px;
+}
+
+.badge {
+	padding-left: 9px;
+	padding-right: 9px;
+	-webkit-border-radius: 9px;
+	-moz-border-radius: 9px;
+	border-radius: 9px;
+}
+
+#lblCartCount {
+	font-size: 12px;
+	background: #ff0000;
+	color: #fff;
+	padding: 0 5px;
+	vertical-align: top;
+	margin-left: -10px;
+}
+
+button.btn.btn.btn-primary {
+    width: max-content;
+}
+
+
+.fa-check-circle::before {
+    color: green;
+}
